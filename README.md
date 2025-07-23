@@ -27,8 +27,9 @@ I'm a passionate software engineering student with a growing interest in **C/C++
 ---
 
 ### 📫 How to Reach Me:
+- Linkedln: [@Abdul Samed Kara]((https://www.linkedin.com/in/abd%C3%BCl-samed-kara-39136836b/))
 - Email: **abdulsamedkara7@gmail.com**
-- GitHub: [@abdulsametkara](https://github.com/abdulsametkara)
+
 
 ---
 
