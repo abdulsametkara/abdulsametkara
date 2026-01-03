@@ -37,17 +37,17 @@ Currently, I focus on developing enterprise-level applications using **.NET Core
 
 ### 🏆 Featured Projects
 
-#### 🏥 [ClinicTrack - Appointment Management System](https://github.com/abdulsametkara)
+#### 🏥 [ClinicTrack - Appointment Management System](https://github.com/abdulsametkara/ClinicTrack-web-app)
 *Full-stack appointment system developed with .NET 8 and React.*
 * **Tech:** ASP.NET Core Web API, React, SQL Server, Docker, JWT.
 * **Key Features:** Role-based authentication, RESTful API design, and comprehensive doctor/patient management modules.
 
-#### 🤖 [Akbank GenAI Chatbot](https://github.com/abdulsametkara)
+#### 🤖 [Akbank GenAI Chatbot](https://github.com/abdulsametkara/akbank-genai-rag-chatbot)
 *RAG-based AI chatbot developed during the Akbank Generative AI Bootcamp.*
 * **Tech:** Python, LangChain, Vector DB, LLMs.
 * **Key Features:** Custom knowledge base integration (RAG), embedding pipelines, and prompt engineering.
 
-#### 📚 [Library Management System](https://github.com/abdulsametkara)
+#### 📚 [Library Management System](https://github.com/abdulsametkara/kutuphaneWebApi)
 *Backend focused library system utilizing Stored Procedures for high performance.*
 * **Tech:** ASP.NET Core, MSSQL (Stored Procedures).
 * **Key Features:** Optimized data access layer and complex business logic implementation for library operations.
