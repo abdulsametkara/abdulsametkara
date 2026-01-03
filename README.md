@@ -57,6 +57,10 @@ Currently, I focus on developing enterprise-level applications using **.NET Core
 ### 📫 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abd%C3%BCl-samed-kara-39136836b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="abdulsamedkara" height="30" width="40" /></a>
-<a href="mailto:abdulsamedkara7@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="abdulsamedkara7@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abd%C3%BCl-samed-kara-39136836b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:abdulsamedkara7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 </p>
